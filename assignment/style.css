@@ -1,0 +1,41 @@
+/*rough draft*/
+/* Give your page a fun background color */
+Header {
+  background-color: yellow;
+  color: black;
+}
+
+.h1 {
+  color: black;
+}
+
+body {
+  background-color: red;
+}
+
+.info {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  background-color: blue;
+}
+/* Align the h1 containing your name in the center of the header*/
+h1 {
+  text-align: center;
+}
+/* Make your p tag a different color and italic */
+p {
+  color: white;
+  font-style: italic;
+}
+/* Put a border around your image */
+img {
+  border: 15px solid #fff;
+}
+/* Change the font-family of your list */
+ul {
+  font-family: fantasy;
+}
