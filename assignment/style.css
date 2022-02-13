@@ -1,17 +1,9 @@
-
 body {
   background-color: darkgray;
 }
 
 header {
   background-color: silver;
-}
-footer {
-  background-color: blue;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  height: 60px;
 }
 
 h1 {
